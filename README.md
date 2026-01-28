@@ -40,13 +40,13 @@ http://54.163.207.94:8080
 ## 🖼️ Screenshots
 
 ### 🔹 Application Running
-![Application Screenshot](screenshots/app.png)
+![Application Screenshot](screenshots/app.png.png)
 
 ### 🔹 ECS Cluster
-![ECS Cluster](screenshots/ecs-cluster.png)
+![ECS Cluster](screenshots/ecs-cluster.png.png)
 
 ### 🔹 ECS Task Running
-![ECS Task](screenshots/ecs-task.png)
+![ECS Task](screenshots/ecs-task.png.png)
 
 ---
 
