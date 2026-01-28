@@ -55,3 +55,8 @@ http://54.163.207.94:8080
 docker build -t dockerhrapp .
 docker tag dockerhrapp:latest <account-id>.dkr.ecr.us-east-1.amazonaws.com/dockerhrapp:latest
 docker push <account-id>.dkr.ecr.us-east-1.amazonaws.com/dockerhrapp:latest
+
+👨‍💻 Author
+
+Ahmed Hamed
+Cloud & DevOps Engineer
